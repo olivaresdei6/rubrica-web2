@@ -34,5 +34,25 @@
     font-size: 18px;
 }
 
+.Series {
+    border: 2px solid #333;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.Series h2 {
+    font-size: 24px;
+}
+
+.Series h3 {
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.Series p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
 
 
