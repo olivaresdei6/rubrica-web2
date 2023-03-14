@@ -10,7 +10,7 @@ function App() {
         semestre: "Soy estudiante de 9 no semestre de Ingeniería de Sistemas en la Universidad De La Costa (CUC)",
     };
 
-    const hobbies = ["Leer", "Jugar videojuegos", "Tocar guitarra"];
+    const hobbies = ["Leer", "Jugar videojuegos", "Tocar guitarra", "Jugar Futbol"];
     const series = [
         {
             nombre: "Breaking Bad",
