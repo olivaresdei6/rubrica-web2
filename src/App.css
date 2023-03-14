@@ -18,3 +18,21 @@
     font-size: 18px;
 }
 
+.Hobbies {
+    border: 2px solid #333;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.Hobbies h2 {
+    font-size: 24px;
+}
+
+.Hobbies ul {
+    list-style: disc;
+    padding-left: 30px;
+    font-size: 18px;
+}
+
+
+
